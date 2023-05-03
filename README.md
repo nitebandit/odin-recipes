@@ -1,0 +1,3 @@
+# odin-recipes
+
+Hello! This is the first project from the Odin Project, entitled "odin-recipes". currently a work in progress...
